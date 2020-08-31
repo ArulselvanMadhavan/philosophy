@@ -1,0 +1,47 @@
+* An example obligation
+  As I gain more information about environmental science and tourism
+  industry, I feel obligated to conserve the number of flights I take
+  and work to change/remove the regulations that allow private planes
+  in lieu for more conscious eco-friendly public travel. There are two parts to
+  this obligation - one is righteous self obligation and the other is
+  the obligation to convince others what you think is right, so you
+  meet the shared obligation collectively. The limitations of the shared obligation are
+  that it's based on perceptions of the ecologists and not the general
+  public. Scientific facts take a lot of time to get accepted and
+  that's an outcome of scientific rigor and the warranted skepticism.
+  So, limiting people's freedom, to do what they want, for the greater good, when the greater
+  good is a subjective matter is an obstacle to meeting the
+  obligation. The limitations of the personal obligation are that you
+  can't share moments with people you like. The limitation is no
+  longer in effect when there are cases of emergency. 
+* Factual Issue/Matter
+  - Whether a person has covid. Let's call this person A.
+  - Competing claims are: A has covid; A doesn't have covid
+  - Conditions to decide one way or the other: A SARS-cov2 test. To
+    rule out false-positive/false-negative and account for human
+    errors, repeated tests could lead to a deterministic result.
+* Normative Issue/Matter
+  - Plant based food(for humans) ought to be the main source of energy
+    in humans to sustain environment for the longest time.
+  - Competing claims:
+    - Plant based food doesn't have to be the main source of energy in
+      humans to sustain life in earth. There are other way that can sustain
+      human life on earth longer.
+    - Plant based food is the main source of energy in humans that
+      sustains life longest
+* Distributional pattern
+  - Regular Exercise helps maintain BMI
+  - Definite pattern: Regular exercise works on most people in
+    controlling their BMI by burning calories and promoting active metabolism
+  - It's distributional because everyone's body is different. Some
+    people can't reduce BMI with just exercises. They may have to
+    engage in diet control in addition to exercising or in other
+    cases, exercises may not always result in maintaining BMI as
+    their metabolism could need adjustments other than physical activities.
+* Puzzle
+  1. Let's call the pitchers P8 and P5
+  2. Fill P5: P8:0; P5:5
+  3. Pour it in P8: P8:5; P5:0
+  4. Fill P5 again: P5:5; P8:5
+  5. Pour P5 into P8 until it's full: P5:2; P8:8
+  6. Now P5 has the 2 liters the young chef needs
