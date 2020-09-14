@@ -1,0 +1,46 @@
+* Puzzle 2
+1.  With Protagoras’ thought experiment in mind, give another example
+   of some measurement and argue that it is only relative and not
+   absolute. Make sure to be clear about what measurement you’re
+   talking about and the conditions that make it only relatively
+   measurable. Spice levels in food could be another experiment that
+   is only relative. A person describing a pepper as mild or hot is
+   relative to the experience one has gained on spice levels over the
+   course of their lifetime.
+
+2. Explain, as clearly as you can, the Self Refutation problem that
+   afflicts Relativism (either Cognitive or Moral). Use an example to
+   make your argument. Self refutation problem in relativism arises
+   from relativism's rejection of there being any objective truth or
+   false. By inviting people to follow this line of thought,
+   relativism proposes that the only objective truth is that there are
+   no objective truths, thereby refuting its claim. For example,
+   "There is nothing more permanent than a temporary change" is a
+   belief/argument that people make questioning the temporal nature of
+   the change and all changes are permanent. If all changes are
+   permanent, is there such a thing as temporary/transient change?
+ 
+
+3. Give your own example of a Money Pump that clearly illustrates the
+   problem with un-ordered preferences. An example I have observed
+   is - Become profitable by being flexible to changing needs of the
+   business > release frequently to meet customer demands > clear,
+   well documented and high quality software > rapid changes lead to
+   complex code > more time to understand code and thereby resulting
+   in halting the ability to change code frequently and release, and
+   affects profitablility
+
+4. What are the two strong assumptions required by the Classical
+   Theory of Probability? All possible events are equally likely. All
+   possible events(Total) are known to us.
+ 
+
+5. A fisher caught a large boat load of salmon. She decided to donate
+   some of her fish to the local community, 1,672 people in all. To
+   each person over the age of 50 she gave 16 fish and to each person
+   under 50 she gave 96 fish. Only 3/4 of the over 50s collected their
+   salmon and only 1/8 of the under 50s collected their fish. How many
+   fish did the fisher distribute it total?
+   Total people = 1672; 
+   if p > 50 16
+   else 96

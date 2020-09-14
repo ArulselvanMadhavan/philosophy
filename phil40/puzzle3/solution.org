@@ -1,0 +1,141 @@
+* Puzzle 3
+1. What the conditions necessary for Groupthink? Give an example of
+   some occurrence of Groupthink and illustrate how each of the
+   components is present in that example.
+   
+   Groupthink prevails in conditions where there is a group of members
+   and the thinking entertained in the group is to achieve
+   unanimity(or some form of collective agreement), which limits the
+   group members' thinking and pursue alternate courses of action, as
+   doing so, will be against the direction the group wants to head,
+   and make you question whether your presence in the group is still
+   warranted. For example, any team decision making on a common aspect
+   that affects them all - say decision to hire a person to promote
+   the speed of growth. If the group is focussed on increasing the
+   growth of the product, and hiring a new person is one of the
+   options, and all but one agrees that it's the best course of
+   action, the person who has a different opinion is more likely to be
+   coerced into agreeing with the rest of the group, rather than
+   pursuing his thinking in questioning whether this is the right
+   course of action(like, what if, we don't want to grow, at this time?)
+
+2. What is Mass Hysteria? Describe an example (not gone over in class)
+   of this phenomenon. How is it like Groupthink and how is it not
+   like it?
+   
+   Mass hysteria is a psychological phenomenon that occurs in a
+   situation when the conditions are identical for a group of people
+   and one person starts showing symptoms that others are observing
+   and believe that they are prone to. The mind is locked into the
+   line of thinking that everything is similar, so it's just as likely
+   to experience the symptoms and starts looking for symptoms to
+   validate this belief, and creates one to conform to its belief.
+   The example would be in a plane, if someone suddenly gets nauseous,
+   and starts visibly showing symptoms after eating the airplane meal,
+   and the words gets out that everyone who chose vegetarian option
+   had expired meal, people who had the same meal will start
+   thinking that they are prone to being nauseous, when they are
+   observing the symptoms the affected person is going through. It's
+   like groupthink in that the conditions are similar and you see
+   yourself as part of the group, and you believe that you are going
+   to be like the rest of the group, because that's what constitutes
+   the group - the similarity. It's not groupthink in that mass
+   hysteria occurs below the conscious level. People experiencing
+   aren't consciously making the choice to stick to the group, which
+   is why it's called psychological illness
+
+3. Give an example of a Binding Device. Make sure to demonstrate what
+   it’s supposed to bind one to and what it’s to keep one from doing.
+   
+   Binding device - Getting a workout partner and committing that they
+   will always work out together. Binding device helps people bind
+   themselves to what they believe as the rational course of action to
+   achieve what they want. It keeps them from deviating away from
+   their commitment to pursue the rational course of action.
+
+4. What are the four factors that contribute to a Wise Crowd? Give an
+   example of a Wise Crowd and one that might not be so wise by
+   showing how the one meets the four factors and the others fails.
+
+   1. Diversity of opinion
+
+   2. Independence of people's opinion
+
+   3. Decentralization of options
+
+   4. Aggregation
+      
+      A team that actively pursues ways to get diversity of opinions
+      on the table before making a decision. A team that encourages
+      people to share their opinion and provides them a safe platform
+      to share it and not try to influence it. A team that is not
+      being forced into buying decisions from the upper management but
+      have the freedom to make its own decisions based on what it
+      right for it. Given the diversity of opinions, there has to be a
+      way to evaluate and aggregate opinions to make a decision that
+      both seems fair and allows members of the team to arrive at the
+      conclusion that the decision is the right rational outcome
+
+      A team that is not open to gathering diversity of opinions or is
+      under the impression that it has heard all the voices without
+      giving a platform to promote diverse opinions is an example of
+      non-wise crowd. Aggregation is usually not a problem to this
+      crowd due to the lack of options.
+
+5. Here’s the game: On a table there are three cups turned upside
+   down, each with a piece of paper with a number written on it. The
+   game is to try to choose the cup that has the piece of paper with
+   the largest number in it. The rules are such: You can turn over any
+   one cup; if you think that the number written on the paper inside
+   is the largest, you can keep it. If you think that isn’t the
+   largest number, you can discard that cup, and then pick another
+   one. If you think that’s the largest number, you can keep that one.
+   If you think it’s not the largest number, then you can discard that
+   one and then you have to take the last cup. What are the odds of
+   getting the highest number? Describe a strategy that gives you the
+   best odds of getting the highest number?
+
+   1. Probability of getting the highest number in the first draw : 1/3
+
+   2. All cups are equally likely to be drawn and have an individual
+      probability of holding the highest number : 1/3
+
+   3. If we choose to make a move, the probability of winning would
+      should be greater than 1/3
+
+   4. Probability of getting the highest number in the second turn or
+      third turn: (1 - 1/3) = 2/3
+
+   5. Information available in the second draw: C2 > C1 or C2 < C1
+
+      1. If C2 > C1, there's a 2/3 chance that C2 is the highest
+         number (C3 > C2 > C1 is the one unfavorable outcome; C2 > C1 > C3 and
+         C2 > C3 > C1 are the favorable outcomes)
+
+      2. If C2 < C1, we don't have the highest number anymore, We can
+         either forfeit(Current winning prob: 0) or continue to turn
+         the other cup(prob: 1/3; favorable outcome: C3 > C1 > C2;
+         Unfavorable: C1 > C3 > C2 and C1 > C2 > C3)
+
+   6. So, if C2 > C1, then you are better off not playing another
+      turn and stay with C2
+
+   7. If C2 < C1, you are better off playing the third turn and
+      flipping the third cup
+
+   8. With this strategy, the odds of getting the highest number are
+      Total prob in Second turn: (2/3 * 2/3) + (2/3 * 1/3) = 2/3
+
+   9. Max winning probability in second turn: max(4/9, 2/9) = 4/9 (in
+      the case when C2 > C1)
+
+   10. Total winning probability in third turn: (2/3 * 1/3) + (2/3 *
+       1/3) = (2/9 + 2/9)
+
+   11. Max winning probability in third turn: 2/9
+
+       Best strategy: Play the second turn and decide to play the
+       third turn or not depending on whether C2 > C1. If C2 > C1,
+       don't play the third turn. If C2 < C1, play the third turn.
+       With this strategy, you are likely to win with a probability of
+       0.67 
