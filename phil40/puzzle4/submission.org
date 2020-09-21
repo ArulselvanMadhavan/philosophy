@@ -1,0 +1,100 @@
+* Puzzle 4
+1. Explain, as clearly as you can and in your own words, why an image
+   at a higher resolution has more Informational Content than the same
+   image at a lower resolution. Use our discussion of the Mathematical
+   Theory of Information as a starting point. 
+
+   At a higher resolution, the number of bits(pixels) representing the
+   objects in the image becomes higher and thereby elucidating the
+   object better and eliminating the other possibilities in the
+   situation. For example, an image consisting of a winged object in
+   the sky could be a bird or an airplane. An image with higher
+   resolution having more pixels to represent the object, carries the
+   information needed to eliminate the possibilities(bird over an
+   airplane or viceversa) by allowing the picture to zoomed in for
+   more information about the object.
+ 
+2. Explain, using the treatment in Dialogue Three, how the same image
+   can have more or less Informational Content for different viewers. 
+
+   A trained birder is well adjusted to the variety of birds and
+   shapes in the sky. So, they may rule out the possibility of a bird
+   right away, from the height it was flying or the shape it looked or
+   the motion it took in the sky. The image with higher resolution is
+   not going to give them any new information if their objective is to
+   classify bird vs airplane. But for the general public with an
+   untrained eye, the higher resolution carries information that could
+   shed more light on the object in the image.
+
+3. Explain the notion of Conditional Probability. Show, with an
+   example, how the Pr(A|B) can be different from the Pr(B|A). 
+   
+   Conditional probability is the (updated) probability of an event given the
+   occurance of another event. The probability of the event of
+   interest could increase or decrease in light of new evidence. Let A
+   be the probability of getting a mail delivered on the delivery date
+   and B be the probability of the bad weather at the
+   destination. If the NWS has declared that the hurricane will hit
+   the destination on the day of the delivery date, then Pr(B) is
+   high. With this new information, Pr(A|B), the probability of mail
+   getting delivered on the delivery date will decrease as the
+   probability of hurricane increases. 
+
+   Probability of getting hurricane at the destination(Pr(B)) is
+   unaffected by the probability of a mail getting there on time
+   Pr(A). So, Pr(B/A) is largely dependent on Pr(B) and not dependent
+   on the values of Pr(A)
+
+4. Explain, as clearly as you can and with an example, the notion of
+   Compound Interest. Imagine you’re explaining it to someone who
+   doesn’t understand it how it works and why it’s so dangerous to be
+   in heavy debt with a high interest rate. 
+   
+   Interest rates are applied to the principal amount. In a simple
+   interest scheme, the prinicipal amount is always constant and the
+   interest rate applied to that amount also yields a constant amount.
+   In a compound interest scheme, the principal is contantly updated
+   with the interest amount before the next interest period.
+
+   For example: With a CI interest of 5% per year and principal sum(debt) of
+   amount of $100
+
+   Year 0: CI: 100, CI: 5%, Increase YOY: 0
+   Year 1: CI: 100(1+0.05) = 105, CI: 5%, Increase YOY: 5
+   Year 2: CI: 105(1+0.05) = 110.25, CI: 5%, Increase YOY: 5.25
+   ...
+   Year 100: CI: 100(1+0.05)^100 = 13150.12, Increase: YOY: 626.19
+
+   As you can see, the increase in debt year over year is rising since
+   the interest is added back to the principal amount for the next year.
+ 
+5. You are in a land where there are only Italians and Germans.
+   Italians always tell the truth and Germans always lie. You come
+   across three inhabitants of this land who are out on a boat off
+   shore. It’s dark and you can’t tell who is who so you shout out to
+   them, “Which one of you is a Italian and which one is a German?”
+   The first one says something, but the wind comes up and you can’t
+   hear what they said. The second one then says, “She said she’s an
+   Italian, and so am I.” The third one says, “They’re both lying; I’m
+   an Italian and they’re both Germans.” 
+
+   Two statements:
+   1. She said she’s an Italian, and so am I.
+
+   2. They’re both lying; I’m an Italian and they’re both Germans.
+
+   Evaluate individual statement to check if they can be false. If
+   they can't be false, then it has to be a true statement.
+   
+   Can statement1 be a lie? If statement 1 were to be a lie, then person
+   1 did not say they were an Italian. So, they must have said they
+   were German. Considering that Germans always lie, they never would
+   have said they were German and since Italians always tell the
+   truth, they wouldn't lie that they were German. So, statement 1 has
+   to be true. NO ONE WOULD SAY THEY WERE GERMAN. It's a logically
+   impossible situation. So, statement1 has to be true.
+
+   Statement 2 can be false in the scenario where P1 and P2 are
+   actually Italians and P3 is a German and lying about it.
+
+   P1: Italian; P2: Italian; P3: German is the only logical answer
