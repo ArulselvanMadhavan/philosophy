@@ -1,0 +1,145 @@
+* Exam 1
+
+1. With a clear example, give a piece of reasoning that commits the
+   Naturalistic Fallacy. Make sure that it’s clear what both the
+   premises and the conclusion of such reasoning is. 
+
+   Naturalistic fallacy is inferring an "ought" from "is". Example:
+   Moving classes online *is* a reasonable alternative to in person
+   classes. Saying this "ought" to be the future of education would be
+   a naturalistic fallacy without taking into account the variety of
+   courses and teaching styles that don't fit the online version and
+   the student's circumstances to access it.
+
+2. With a clear example, give a piece of reasoning that commits the
+   Moralistic fallacy. Again, make sure that it’s clear what both the
+   premises and the conclusion of such reasoning is. 
+
+   Moralistic fallacy is inferring an *is* from an *ought*. Example:
+   Public transit ought to be free and the default mode of commuting
+   for people who live in the city. Moralistic fallacy would be to
+   infer that *is* the case in cities and move in to the city without
+   having reasonable means to support the multi-transit transfers to
+   commute to places.
+
+3. Describe a situation where the Frequentist interpretation of
+   Probability is the most plausible reading of that notion. Make sure
+   to note why at least one of the other interpretations (Classical,
+   Bayesian) is not as good a fit for that situation as the
+   Frequentist one. 
+
+   Frequentist approach is entirely based on the past events and the
+   probability is calculated as number of times X has won out of the
+   last N games. Frequentist approach doesn't take into account any
+   changes in circumstances that could increase X's chances of
+   winning or probability that is independent of experience(prior). An
+   example where frequentist approach is the most plausible
+   interpretation is when there aren't a lot of uncertainties
+   involved. A tossing of a defective coin that's biased to turn more
+   heads than tails. Based on past occurances, frequentist method would
+   rightly call out the inflation in the probability of getting a
+   head. A classical interpretation would fail here because the events
+   are not equally likely. Bayesian estimate would take into account
+   the prior knowledge of probability of getting a head to be 0.5,
+   which is independent of the experience, and hence take more time to
+   arrive at the actual probability
+ 
+
+4. Explain, with an example of your own, how something can be
+   Information for person X but not for person Y? 
+
+   Something can be an information if it makes someone update their
+   current beliefs/models. If person X and person Y observe a comet in
+   the sky, and person X has always believed that comets give the
+   impression of a long tail, and person Y hasn't, then viewing a
+   comet that appears to have a long tail is an information to person
+   Y and not for person X. 
+
+5. What is the argument for the claim that there are no false beliefs?
+   In your view, is it convincing? 
+
+   Beliefs could be correct or incorrect in their model of reality or
+   inconsistent with other beliefs of the beholder of the belief but
+   the beholder of the belief considers it to be true, atleast until
+   they feel convinced to update their belief to be a more accurate
+   one. So, beliefs as they are formed in the minds of sentient beings
+   are not in a state of false when accessed for thoughts in the
+   present. Retrospectively, they can be remembered in a state of
+   false/incorrect status but they are no longer there as they have
+   been updated/transformed/replaced into what's now the current
+   belief. The argument is convincing in that one can hold onto false
+   beliefs about the world by not updating their beliefs with actual
+   state of the world and always believing them to be true 
+
+6. Exactly what is an ad hoc definition or strategy? (You might look
+   at the definition of the term as a starting point). What’s wrong
+   with that sort of thing? Give an example of giving an ad hoc
+   account/definition of a term or an ad hoc strategy and show why
+   it’s a problematic move. 
+
+   Ad hoc strategy is something that was created to patch up the
+   current momentum towards achieving the current goal. The limitation
+   is that ad hoc strategy is not generic enough to be believed to be
+   acceptable for another goal. They are "one-off" strategies that
+   could be suitable in a limited set of circumstances. Example: When
+   the product release date is tomorrow, and the business team asks
+   for a new feature to be added to the thoroughly tested product, you
+   may adopt the strategy of evaluating the riskness of new feature
+   and add it and choose to skip testing before the final launch. But,
+   this strategy is not acceptable as a long term or even a repeatable
+   strategy as it was taken based on evaluating the feature at hand at
+   the time and not a common strategy to be applied for developing softwares. 
+
+7. You are taking the Final Exam in your Logic class. There’s a
+   multiple choice question that, for whatever reason, is missing but
+   you have the answers—only one choice is correct. Here they are: 
+
+A. Answer A
+
+B. Answer A or Answer B
+
+C. Answer B or Answer C
+
+   Option C because it refers to Answer B which includes Answer A
+   thereby claiming that all answers are eligible to be correct in a
+   situation when there is no question. 
+
+8. Suppose I believe there’s a .6 chance of rain but a .7 chance of no
+   precipitation. Explain to me the problem with that subjective
+   probability assessment in a way that doesn’t just assert that I’m
+   being irrational. Show me why I’m being irrational. 
+
+   If rain and no rain, exhaust all possible outcomes related to
+   raining, then the sum of these two probabilities should be equal to
+   1.0 . Precipitation includes rain among other weather outcomes like
+   snow, sleet or hail. So, when there's a probability of 0.7 that
+   there will be no precipitation(including rain), having the belief
+   that probability of rain is 0.6, doesn't add up to 1.0 when we use
+   it answer the question will it rain?
+
+9. What is the difference between the purely quantitative mathematical
+   model of information detailed in Dialogue Three and the the
+   qualitative one that follows it. Explain the difference with an
+   example of your own. 
+
+   In a quantitative model of information, the number of units that
+   carry data amounts to information whereas in a qualitative one, the
+   amount of content in the units that carry data amounts to
+   information. An example, would be signal frequencies. When the
+   frequencies are higher, they can be used to carry more information.
+   When the frequency is lower, the amount of information carried by
+   each crest and trough has more qualitative content and the signal can't be
+   interpreted properly if one or two wavelength is off.   
+
+10. Give an example of Peer Pressure. Describe, through that example,
+    the relationship between that, Groupthink, and Closed Mindedness. 
+    
+    An example of a peer pressure would be to drink in a party where
+    every one around you is playing a drinking game. To be one with
+    the party, one feels the pressure to drink and not come off as a
+    recluse. In this example, group think is involved as the group
+    collectively decided to play drinking game not accounting for the
+    small minority that may not drink, thereby pressuring them to
+    drink to feel part of the group or get left out. In this example,
+    closed mindedness on the group's part is evident on their failure
+    to consider alternative options for people who won't drink. 
