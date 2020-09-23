@@ -44,7 +44,6 @@
    which is independent of the experience, and hence take more time to
    arrive at the actual probability
  
-
 4. Explain, with an example of your own, how something can be
    Information for person X but not for person Y? 
 
@@ -92,13 +91,8 @@
 
 7. You are taking the Final Exam in your Logic class. There’s a
    multiple choice question that, for whatever reason, is missing but
-   you have the answers—only one choice is correct. Here they are: 
-
-A. Answer A
-
-B. Answer A or Answer B
-
-C. Answer B or Answer C
+   you have the answers—only one choice is correct. Here they are: A.
+   Answer A B. Answer A or Answer B C. Answer B or Answer C
 
    Option C because it refers to Answer B which includes Answer A
    thereby claiming that all answers are eligible to be correct in a
