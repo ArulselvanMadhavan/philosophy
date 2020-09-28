@@ -1,10 +1,16 @@
 * Puzzle 5
 1. The belief ‘Today is Friday’ entails:
+
    a. [ ] Today is today’
+
    b. [ ] ‘Today is Tuesday’
+
    c. [ ] ‘Tomorrow is Saturday’
+
    d. [X] a and c
+
    e. [ ] b
+
    f. [ ] none of the above    
 
 2. The belief ‘Today is today’ entails:
