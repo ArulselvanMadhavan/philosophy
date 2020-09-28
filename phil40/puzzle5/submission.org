@@ -1,0 +1,79 @@
+* Puzzle 5
+1. The belief ‘Today is Friday’ entails:
+   a. [ ] Today is today’
+   b. [ ] ‘Today is Tuesday’
+   c. [ ] ‘Tomorrow is Saturday’
+   d. [X] a and c
+   e. [ ] b
+   f. [ ] none of the above    
+
+2. The belief ‘Today is today’ entails:
+
+   a. [ ] ‘Today is Friday’
+
+   b. [ ] ‘Today is yesterday’
+
+   c. [ ] ‘If today isn’t today, then it’s Wednesday’
+
+   d. [ ] a and b
+
+   e. [X] none of the above
+
+3. Give an example of an Analytically True Belief. Give an example of
+   a Synthetically True Belief.
+
+   - Sales tax applies to goods that you sell.
+
+   - Sales tax for small businesses are too high
+
+4. In the Dialogue, it’s submitted that the Necessary v. Contingent
+   distinction is different from the A Priori v. A Posteriori
+   distinction. How are they different? Give examples of each to
+   illustrate your presentation.
+
+   They are different in their interpretation of logically true/false
+   beliefs and logically possible beliefs. Beliefs that are
+   independent of experience/prior knowledge are called a priori,
+   whereas all logically true/false beliefs are necessarily true in
+   all possible worlds. A priori beliefs can include situations where
+   there aren't prior events to infer from. "Necessary" true/false
+   beliefs require that the belief be true/false in *all* possible
+   worlds. Contingent beliefs are true in some situations and false in
+   others. A posterior beliefs happens based on past experience and
+   can take true/false form based on the experience.
+
+   Example: USPS package is tampered or not - The statement is
+   necessarily true in all possible worlds as either a delivered
+   package has to be in one of its possible states. 
+
+   Post offices don't deliver on Sundays - Contingent belief.
+   Not true in all worlds or countries. Requires context and could be
+   true/false
+
+   Package delivery services deliver packages on time or a bit
+   delayed or early - A priori; Includes all three temporal states;
+   doesn't need prior knowledge.
+
+   USPS can ship packages - A Posteriori. Prior knowledge of USPS and
+   it's shipping business was needed to assert the belief as true/false.
+
+5. 100 years ago, a ship sank in the middle of the Pacific Ocean. The
+   survivors luckily landed on a remote island.There was enough food
+   for the 135 people to last four weeks. Nine days later a rescue
+   ship appeared, unfortunately this ship also sank, leaving an
+   additional 36 people stranded on the island to now share the
+   original rationed food. The food obviously had to be re-rationed,
+   everyone was now on three-quarters of the original ration, so how
+   many days in total would the food last, from the day of the
+   original sinking?
+   
+   #+BEGIN_SRC 
+   number of days expected to last = 4 * 7 = 28 days
+   Total food available = (135 people * 1 food unit per person per day * 28 days) food units
+   Total food consumed in 9 days = 135 people * 1 food unit per person * 9 days food units
+   Total food remaining = 135 * (28 - 9)  = 135 * 19
+   After 9th day, total people = 135 + 36 = 171
+   Total food consumed per day after 9th day = 171 * 3/4 food unit per person
+   Number of days food is expected to last = total remaining/total consumption per day = 135 * 19/ (171 * 3/4) = 20 days
+   #+END_SRC
+   
