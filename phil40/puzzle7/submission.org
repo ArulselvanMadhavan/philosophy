@@ -1,0 +1,49 @@
+* Puzzle 7
+
+1. The proposition “No flight delays are occurrences welcomed by passengers” is an:
+   a. a.I-type.
+   b. b.U-type.
+   c. c.E-type.
+   d. d.O-type.
+   e. e.A-type.
+
+      E type
+
+2. Given the categorical proposition “Some teaching careers are not
+   rewarding occupations.”  If the quality but not the quantity is
+   changed, the resulting proposition is: 
+
+   a. Some teaching careers are rewarding occupations.
+
+   b. All teaching careers are unrewarding occupations.
+
+   c. c.No teaching careers are rewarding occupations.
+
+   d. d.All teaching careers are rewarding occupations.
+
+   e. e.Some teaching careers are unrewarding occupations.
+
+      D
+
+3. Using Categorical Transformations and the Boolean Square of
+   Opposition determine whether the second in the following pair of
+   sentences must be a) True, b) False, or c) Undetermined if the
+   first one is assumed to be true.
+
+   1. No credit crunches are financial blessings.
+
+   2. Some credit crunches are not financial blessings.
+
+      true
+
+4. a) Some happy endings are not unplanned outcomes; b) Some planned outcomes are not unhappy endings.
+
+   Undetermined
+
+5. The word ‘sanction’ has two meanings that are antonyms of each
+   other. For example, ‘The city sanctions a parade’ and ‘Anyone who
+   drives on the wrong side of the road may be sanctioned by the
+   city’. Give two other words that have opposite meanings like that. 
+ 
+   Dust - fine particles over something. Dust away - clean something
+   Bolt - means run; Also means a kind of locked up state
