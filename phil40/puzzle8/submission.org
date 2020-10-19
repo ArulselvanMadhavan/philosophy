@@ -4,12 +4,12 @@
    persons. If the quantity but not the quality is changed, the resulting proposition is
 
    C 
+
 2. Given the categorical proposition “All Emmy winners are
    celebrities.”  If both the quality and the quantity are changed,
    the resulting proposition is: 
 
    A - No Emmy winners are people who are not celebrities.
-
 
 3. Which of the following categorical propositions is in standard form?
 
@@ -45,9 +45,9 @@
     | Rex    | Bart  |
     | Alice  |       |
 
-    - If Zoey is a knight, statement (1) puts Rex as Knight and Dave as
-      Knave
-    - If Dave is a Knave, statement (4) puts Alice as Knight
-    - If Alice is a knight, then statement (5) puts Bart as a Knave
-    - If Bart is a knave, then as per statement (2), neither Rex nor Zoey
-      is a knave which validates the table
+   - If Zoey is a knight, statement (1) puts Rex as Knight and Dave as
+     Knave
+   - If Dave is a Knave, statement (4) puts Alice as Knight
+   - If Alice is a knight, then statement (5) puts Bart as a Knave
+   - If Bart is a knave, then as per statement (2), neither Rex nor Zoey
+     is a knave which validates the table
