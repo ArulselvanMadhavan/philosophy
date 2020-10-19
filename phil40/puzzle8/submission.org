@@ -1,0 +1,53 @@
+* Puzzle 8
+
+1. Given the categorical proposition “No corporations are real
+   persons. If the quantity but not the quality is changed, the resulting proposition is
+
+   C 
+2. Given the categorical proposition “All Emmy winners are
+   celebrities.”  If both the quality and the quantity are changed,
+   the resulting proposition is: 
+
+   A - No Emmy winners are people who are not celebrities.
+
+
+3. Which of the following categorical propositions is in standard form?
+
+   D - Some carwashes are solar powered operations.
+
+4. Below you are given a statement, its truth value in parentheses,
+   and an operation/relation to be performed on that statement.  You
+   must identify the new statement and the truth value of the new
+   statement.  
+
+   D - No A are B
+
+5. A very special island is inhabited only by knights and knaves.
+   Knights always tell the truth, and knaves always lie. You meet five
+   inhabitants: Zoey, Bart, Rex, Dave and Alice. Zoey tells you, `Rex
+   is a knight and Dave is a knave.' Bart claims that Rex is a knave
+   or Zoey is a knave. Rex tells you that only a knave would say that
+   Alice is a knave. Dave tells you, `Alice is a knave.' Alice tells
+   you, `Either I am a knight or Bart is a knight.' Can you determine
+   who is a knight and who is a knave? If yes, state who is who. For
+   full credit, you must demonstrate your reasoning
+
+    Statements:
+    Z => R(K) && D(V)
+    B => R(V) || Z(V)
+    R => V -> Alex is a knave => A(K)
+    D => A(V)
+    A => Self(K) or B(K)
+
+    | Knight | Knave |
+    |--------+-------|
+    | Zoey   | Dave  |
+    | Rex    | Bart  |
+    | Alice  |       |
+
+    - If Zoey is a knight, statement (1) puts Rex as Knight and Dave as
+      Knave
+    - If Dave is a Knave, statement (4) puts Alice as Knight
+    - If Alice is a knight, then statement (5) puts Bart as a Knave
+    - If Bart is a knave, then as per statement (2), neither Rex nor Zoey
+      is a knave which validates the table
