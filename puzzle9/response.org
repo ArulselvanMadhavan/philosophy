@@ -1,0 +1,57 @@
+* Puzzle 9
+1. *Premises*:
+   - Some A are H(I)
+   - All D are ~ A
+   *Conclusion*
+   - Some H are D(I)
+   *Operations*
+   - Obversion of Premise 2: No D are A(E)
+   *Validity*
+   - Validity is false
+
+2. *Premises*
+   - Some ~B are F
+   - All T are B(A)
+   *Conclusion*
+   - Some ~T are not ~F
+   *Premises*
+   - Contraposition on Premise 1 : Some F are not B(O)
+   - Contraposition on Conclusion: Some F are not T(O)
+   *Validity*
+   - True
+
+3. *Premises*
+   - All J are not C
+   - All P are C (A)
+
+   *Conclusion*
+   - All J are not P
+   *Operations*
+   - Obversion on premise 1 => No J is C (E)
+   - Obversion on Conclusion => No J is P (E)
+   *Validity*
+   - true
+
+4. *Premises*
+   - All U are G(A)
+
+   - No L are G(E)
+   *Conclusion*
+   - Some U are not L(O)
+   *Validity*
+   - True
+
+5. B did it. A and C are telling the truth.
+   Proof:
+   - When B says, he doesn't know the guy, B invalidates A's claim
+     making him a liar
+
+   - When B says, he was out of town, B invalidates C's claims making
+     C a liar
+
+   - Since we can't have two liars, B has to be lying and the other
+     two must be telling the truth
+
+
+
+
