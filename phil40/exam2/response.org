@@ -1,0 +1,118 @@
+1. Translate the following argument into Aristotelian Form and then
+   using a Venn diagram determine whether it’s valid or not: Some
+   harmless remarks are not disrespectful comments, since some
+   appropriate assertions are not harmless remarks, and all
+   disrespectful comments are appropriate assertions.
+ 
+   - Premises:
+     - Some AA are ~HL(O)
+     - All DR are AA(A)
+   - Conclusion:
+     - Some HL are ~DR(O)
+   - Invalid
+
+2. Assume it is false that some identity crises are tranquil
+   happenings.Therefore, is it true that some identity crises are not
+   tranquil happenings? Use the Square of Opposition to justify your
+   answer. 
+
+   Yes. They form a subcontrary relationship in the square of
+   opposition. Both of them can't be false at the same time
+
+3. Translate the following argument into Aristotelian Form and then
+   using a Venn diagram determine whether it’s valid or not: When
+   people delay marriage the divorce rate increases and nowadays
+   people are delaying marriage so it’s obvious that we’re seeing an
+   increase in divorce rates nowadays. 
+
+   - Premises:
+     - All instances of delayed marriages contribute to an increases divorce rate
+     - All people living now are delaying marriages
+   - Conclusion:
+     - All people living now are seeing an increase in divorce rates
+   - Validity: True
+
+4. Given the categorical proposition "Some unbelievable yarns are
+   fictitious tales." If the quantity but not the quality is changed,
+   the resulting proposition is: In 5 and 6 you are given a statement,
+   its truth value in parentheses, and an operation/relation to be
+   performed on that statement. You must identify the new statement
+   and the truth value of the new statement. 
+
+   All unbelievable yarns are fictitious tales
+
+5. No non-A are B. (T) Conversion
+   
+   No B are non-A (T)
+
+6. Some A are not B. (F) Contraposition
+
+   Some non-B are not non-A. (Und.)
+
+7. Which of the following categorical propositions is in standard form?
+
+   No recessions are times of economic expansion.
+
+8. If Joe Biden becomes our next president, I hope he will indeed make
+   changes to our judicial system. Perhaps the best remedy for rushed
+   confirmations and politicizing the U.S. Supreme Court is to end
+   lifetime appointments. Why not limit justices to terms of 10 years?
+   Even our presidents are not allowed to serve for more than two
+   consecutive terms, which is for eight years. The high court would
+   be better served by having new members and renewed objectivity on a
+   regular basis. - Marisol Echevaria, Daly City
+
+   - Conclusion
+     - Best remedy for rushed confirmations and politicizing U.S Supreme
+       court is to end lifetime appointments. [1]
+
+   - Supporting arguments:
+
+     - The high court would be better served by having new members and
+       renewed objectivity on a regular basis. [2]
+
+     - Even our presidents are not allowed to serve for more than two
+       consecutive terms, which is for eight years [3]
+
+     - Limit justices to 10 years[4]
+
+   - Tangential comment:
+     - If Joe Biden becomes our next president, I hope he will indeed
+       make changes to our judicial system.
+
+9. Clear-eyed on pot. Now that the charade of “medical” marijuana is
+   over, we need to be realistic about the impact of legalizing
+   recreational use of marijuana. Legalization is needed, because the
+   prohibition of marijuana is futile and costly. But the use of
+   marijuana comes with the same risks of alcohol and tobacco. It will
+   be a public health issue that must be managed. Abuse by adults, use
+   by juveniles, use in public, the resultant health effects of
+   marijuana use, and driving under the influence of marijuana are all
+   legitimate concerns. Recreational use of marijuana should not be
+   prohibited, but it should not be glorified either - Paul Joseph,
+   San Jose
+
+   - Conclusion:
+
+     - Recreational use of marijuana should not be prohibited, but it
+       should not be glorified either.
+
+   - Supporting arguments
+     - Legalization is needed, because the prohibition of marijuana is
+       futile and costly.
+
+     - the use of marijuana comes with the same risks of alcohol and
+       tobacco
+
+       - It will be a public health issue that must be managed.
+
+       - Abuse by adults, use by juveniles, use in public, the
+         resultant health effects of marijuana use, and driving under
+         the influence of marijuana are all legitimate concerns.
+
+10. Is it possible to have a valid argument with exactly one logically
+    true premise? If it is, give an example of it. If it’s not, state
+    that it’s not possible. 
+
+    No it's not possible to have a valid argument with one logically
+    true premise. To draw a conclusion, you need two logically true premises.
