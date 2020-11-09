@@ -1,0 +1,79 @@
+* Questions
+
+1. For example, suppose one is diagnosed with microscopic hematuria
+   (blood in the urine). Suppose further that. As it turns out,
+   microscopic hematuria occurs in 10% of all people, but in 100% of
+   people with kidney cancer, which occurs in .0002% of all people. So
+   given that, what are the chances one has kidney cancer if someone
+   presents with this diagnosis? 
+   
+   #+BEGIN_SRC text
+   P(H) = 0.1
+   P(H|K) = 1
+   P(K) = 0.000002
+   P(K|H) = (1 * 0.000002)/0.1 = 0.00002
+   #+END_SRC
+
+
+2. A cab was involved in a hit and run accident at night. Two cab
+   companies, the Green and the Blue, operate in the city. You are
+   given the following data: 85% of the cabs in the city are Green and
+   15% are Blue. Also, a witness identified the cab as Blue. The court
+   tested the reliability of the witness under the same circumstances
+   that existed on the night of the accident and concluded that the
+   witness correctly identified each one of the two colors 80% of the
+   time and failed 20% of the time. What is the probability that the
+   cab involved in the accident was Blue rather than Green? 
+
+   #+BEGIN_SRC text
+   P(G) = 0.85
+   P(B) = 0.15
+   P(Correct) = 0.8
+   P(Wrong) = 0.2
+   P(Witness says Blue) = P(Green)*P(Wrong) + P(Blue)*P(Correct) = 0.85*0.2 + 0.15*0.8 = 0.29
+   P(Car is Blue | Witness says Blue) = P(Witness says Blue | Car is Blue) * P(Car is Blue) / P(Witness says Blue)
+   P(Car is Blue | Witness says Blue) = (0.8 * 0.15)/0.29 = 0.41
+   #+END_SRC
+
+3. Given two urns, one containing 2 green, 3 yellow, and 5 pink balls,
+   and the other containing 4 green, 2 yellow, and 4 pink balls. If a
+   single ball is drawn from each, what is the probability that at
+   least one is either green or yellow? 
+
+   #+BEGIN_SRC text
+   Probability of atleast one yellow or green is equal to (1 - probability of all pink)
+   P(Pink in the first draw) = 5/10
+   P(Pink in the second draw) = 4/10
+   P(Pink in both draws) = 0.5 * 0.4 = 0.2
+   P(Atleast one Y or G) = 1 - 0.2 = 0.8 = 4/5
+   #+END_SRC
+
+4. Suppose 2% of people have Syndrome X. We have a Syndrome X
+   detecting test which gives which gives a positive result for 90% of
+   people who do have the syndrome, but also gives a positive result
+   for 10% of people who don’t actually have the syndrome. A patient
+   comes in and gets a positive result. What are the chances they have
+   Syndrome X? 
+
+   #+BEGIN_SRC text
+   P(X) = 0.02; P(P|X) = 0.9; P(FP) = 0.1
+   P(positive rate) = P(P|X)*P(X) + P(P|~X)P(~X) = 0.9*0.02 + 0.1*0.98 = 0.116
+   P(X|P) = P(P|X) * P(X) / P(P) = (0.9 * 0.02)/0.116 = 0.155
+   #+END_SRC
+
+5. Dave has two ways of getting to work: bus and car. Suppose he
+   chooses each morning which kind of transport to use by flipping a
+   coin each morning. If he goes by bus, the probability that he’s
+   going to be late is 20%. If he goes by car, the probability of him
+   being late to work is 50%. Suppose Dave is late for work one
+   morning and his boss wants to figure out the probability that he
+   took his car to work. How would the boss do that and what are the
+   chances Dave took his car that morning? 
+
+   #+BEGIN_SRC text
+   P(L|B) = 0.2
+   P(L|C) = 0.5
+   P(B) = P(C) = 0.5
+   P(L) = P(L|C)*P(C) + P(L|B) * P(B) = 0.35
+   P(C|L) = P(L|C) * P(C) / P(L) = 0.5 * 0.5 / 0.35 = 0.714
+   #+END_SRC
